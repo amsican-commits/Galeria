@@ -4,7 +4,7 @@
     border-radius:5px ;
 display: grid;
 grid-template-columns: 1fr 1fr
-grid: template rows auto auto auto auto;
+grid-template-rows; auto auto auto auto;
 }
 
 .div-img{
@@ -25,3 +25,4 @@ height: 250px;
    font-weight: 600;
    margin-left: auto;
 }
+
